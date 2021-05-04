@@ -1,17 +1,37 @@
 # Acceleration-Program
 Shiden Network Acceleration Pogram is designed to support various projects building on Shiden Network. 
 
-## Apply from [here]()
+### Apply from [here]()
 
-This program is opeated by Stake Technologies and Parity Technnoloiges under [Builders for Builders program](https://www.parity.io/substrate-builders-program-update-builders-for-builders/) led by Parity Techoloiges.
+This program is operated by Stake Technologies and Parity Technnoloiges under [Builders for Builders program](https://www.parity.io/substrate-builders-program-update-builders-for-builders/) led by Parity Techoloiges.
 
 ## What is Shiden Acceleration Program?
-
+The purpose of Shiden Acceleration Program is to help Shiden ecosystem projects deliver production-ready products on Shiden Network. 
 
 ## Who the Program is For?
+The following projects are eligible for this acceleration program.
+
+- DApps Projects
+  - Shiden Network supports both EVM and WASM. 
+- Infrastructure Projects
 
 ## What the program entails?
+### Technical supports
+- The core dev team at Stake Technnologies will walk you through how to develop and maintain applications/infrastructures on the Shiden Network. 
+- The team notifies upcoming updates and technical milestones prior to the official announcements.
+- The selected teams will be invited to our Discord group.
+- The selected teams will have a bi-weekly meeting with the core team to solve technical problems.  
 
+### Fudnraising supports
+- Stake Technologies introduces blockchain/crypto investors who joined our institutional rounds and lockdrops. 
+- Since Shiden Network natively supports DApps Staking by design, developers can earn SDN tokens by making products on Shiden. During the acceleration progam, all teams are evaluated by the Shiden Network community through DApps Staking. Based on the evaluation, Stake Technologies gives teams a grant.
+
+### Marketing supports
+- Social marketing (Twitter, Telegram, Discord).
+- Invite our community meetup and conference as a speaker.
+
+## How to Participate in the Program?
+- 
 
 ## What is Shiden Grants Program?
 After thesuccessful launnch of Shiden Acceleration Program and becoming a Kusama Parachain, we will soonly start Shiden Grants Program.
@@ -20,3 +40,7 @@ After thesuccessful launnch of Shiden Acceleration Program and becoming a Kusama
 >Builders for Builders is a new initiative that aims to empower teams building Substrate-based parachains to develop and grow their own ecosystem of builders developing on top of their parachain. As part of the Builders for Builders initiative, the Substrate Builders Program team will share best practices gained from running the SBP for over a year now to help parachain teams build their own similar programs for teams building solutions on top of their parachain. These programs, called Parachain Builders Programs (PBP) will allow parachain teams to become mentors to others and develop their own thriving community of builders, enriching the Polkadot ecosystem as a whole. 
 
 Learn more from [here](https://www.parity.io/substrate-builders-program-update-builders-for-builders/)
+
+## FAQ
+### Does Stake Technologies charge fees?
+No.
