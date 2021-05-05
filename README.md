@@ -44,7 +44,10 @@ The following projects are eligible for this acceleration program.
 - Introduce other projects 
 
 ## How to Participate in the Program?
-- 
+- Fill out [this form]()
+- Fork this repository
+- Copy XXXX and edit the file
+- Create a Pull Request 
 
 ## What is Shiden Grants Program?
 After thesuccessful launnch of Shiden Acceleration Program and becoming a Kusama Parachain, we will soonly start Shiden Grants Program.
