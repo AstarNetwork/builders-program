@@ -8,12 +8,23 @@ This program is operated by Stake Technologies and Parity Technnoloiges under [B
 ## What is Shiden Acceleration Program?
 The purpose of Shiden Acceleration Program is to help Shiden ecosystem projects deliver production-ready products on Shiden Network. 
 
+### Path to Success
+- Application (Apply from [here]())
+- Evaluation (The Acceleration team review the submission)
+- Accept 
+- Milestone (We decide technical milestones together)
+- Launch Support
+- Grant Program (After the successful graduation, we continue to support projects)
+
 ## Who the Program is For?
 The following projects are eligible for this acceleration program.
 
-- DApps Projects
-  - Shiden Network supports both EVM and WASM. 
-- Infrastructure Projects
+- DApps Project
+  - Shiden Network supports both EVM and WASM. This includes DeFi, NFTs, and DAO.
+- Infrastructure Project
+  - This includes orale, block explorer, and toolings. 
+- Parachain and L1
+  - Shiden will be connected to other L1 chains and Parachains. This includes bridges and cross chain integrations.
 
 ## What the program entails?
 ### Technical supports
@@ -21,6 +32,7 @@ The following projects are eligible for this acceleration program.
 - The team notifies upcoming updates and technical milestones prior to the official announcements.
 - The selected teams will be invited to our Discord group.
 - The selected teams will have a bi-weekly meeting with the core team to solve technical problems.  
+- Audit
 
 ### Fudnraising supports
 - Stake Technologies introduces blockchain/crypto investors who joined our institutional rounds and lockdrops. 
@@ -29,6 +41,7 @@ The following projects are eligible for this acceleration program.
 ### Marketing supports
 - Social marketing (Twitter, Telegram, Discord).
 - Invite our community meetup and conference as a speaker.
+- Introduce other projects 
 
 ## How to Participate in the Program?
 - 
