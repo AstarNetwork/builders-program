@@ -8,7 +8,9 @@ The Shiden Network Acceleration Program was created to help further the developm
 
 ## Who and what are we looking for?
 
-Unlike other acceleration programs, our program is idea agnostic. Our focus has always been on the community and product development as such, the Shiden Network Acceleration Program is designed in a similar fashion - we are interested in **high quality teams** that are building **applications that the community wants** and have shown a **track record of successfully delivering on their milestones**. There is also a separate track for new and innovative ideas so if you think you fall under that category, please apply [here](#how-to-apply).
+Unlike other acceleration programs, our program is **idea agnostic**. Our focus has always been on the community and product development and as such, the Shiden Network Acceleration Program is designed in a similar fashion - we are interested in **high quality teams** that are building **applications that the community wants** and have shown a **track record of successfully delivering on their milestones**.
+
+There is also a separate track for new and innovative ideas so if you think you fall under that category, please apply [here](#how-to-apply).
 
 ## Why should I apply?
 
@@ -24,13 +26,13 @@ We understand that any talented teams will have no problems applying to other pr
 ### Network and Fundraising support
 
 - We have access to a huge network of traditional / crypto investors, industry experts, blockchain mentors, exchanges, VCs, marketmakers etc. all of which we can link you up with to elevate your project to the next level.
-- A very unique feature that we support natively on the Shiden Network is [DApps staking](https://docs.plasmnet.io/build/dapps-reward) where developers can earn SDN tokens by developing and deploying applications on the Shiden. Teams that are in the acceleration program will also be rated by the community through DApps staking and extra unconditional grants will be disbursed to the top teams!
+- A very unique feature of the Shiden Network is [DApps staking](https://docs.plasmnet.io/build/dapps-reward) where developers can earn SDN tokens by developing and deploying applications on the Shiden. Teams that are in the acceleration program will also be rated by the community through DApps staking and extra unconditional grants will be disbursed to the top teams!
 
 ### Marketing support
 
 - As the saying goes "You can have the best product in the world, but if nobody knows about it, what good is it?" so part of what we can also do is to help promote your project on the various social media platforms like Twitter, Telegram etc.
 - You will also be invited to our community meetups and conferences as a guest speaker to share more about your project and to grow your community.
-- We will also link you up with other projects in the acceleration program and help support initiatives that promotes cross collaboration between different teams.
+- We are a big fan of cross collaboration between projects in the ecosystem and will help to link your team with other projects in the acceleration program to create something amazing.
 
 ### Post graduation support
 
