@@ -38,11 +38,8 @@ We understand that any talented teams will have no problems applying to other pr
 
 ## How to apply?
 
-- Fork the repo
-- Clone `template-proposal.md`.
-- Rename the cloned file to `<project name>-proposal.md`
-- Edit your proposal where necessary.
-- Create a pull request
+- In our [forum](https://forum.plasmnet.io/c/shiden/13), create a thread titled "[Acceleration Program] <insert name of your project> application"
+- We recommend taking reference to [W3F's general grant proposal template](https://github.com/w3f/General-Grants-Program/blob/master/grants/grant_application_template.md) when making your application post. If you have privacy concerns, please reach out to us directly instead.
 
 ## FAQs
 
