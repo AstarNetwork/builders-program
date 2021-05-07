@@ -39,7 +39,7 @@ We understand that any talented teams will have no problems applying to other pr
 
 ## How to apply?
 
-- In our [forum](https://forum.plasmnet.io), navigate to the "Acceleration Program" category and create a thread titled "<insert name of your project>'s application proposal"
+- In our [forum](https://forum.plasmnet.io), navigate to the "Acceleration Program" category and create a thread titled "name of your project's application proposal"
 - We recommend taking reference to [W3F's general grant proposal template](https://github.com/w3f/General-Grants-Program/blob/master/grants/grant_application_template.md) when making your application post. If you have any privacy concerns, please reach out to us directly instead.
 
 ## FAQs
