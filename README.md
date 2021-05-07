@@ -26,8 +26,7 @@ We understand that any talented teams will have no problems applying to other pr
 ### Network and Fundraising support
 
 - We have access to a huge network of traditional / crypto investors, industry experts, blockchain mentors, exchanges, VCs, marketmakers etc. all of which we can link you up with to elevate your project to the next level.
-- A very unique feature of the Shiden Network is [DApps staking](https://docs.plasmnet.io/build/dapps-reward) where developers can earn SDN tokens by developing and deploying applications on the Shiden. Teams that are in the acceleration program will also be rated by the community through DApps staking and extra unconditional grants will be disbursed to the top teams!
-
+- A very unique feature of the Shiden Network is [DApps staking](https://docs.plasmnet.io/build/dapps-reward) where developers can earn SDN tokens by developing and deploying applications on the Shiden. These additional SDN tokens can help to supplement your team's income.
 ### Marketing support
 
 - As the saying goes "You can have the best product in the world, but if nobody knows about it, what good is it?" so part of what we can also do is to help promote your project on the various social media platforms like Twitter, Telegram etc.
@@ -40,8 +39,8 @@ We understand that any talented teams will have no problems applying to other pr
 
 ## How to apply?
 
-- In our [forum](https://forum.plasmnet.io/c/shiden/13), create a thread titled "[Acceleration Program] <insert name of your project> application"
-- We recommend taking reference to [W3F's general grant proposal template](https://github.com/w3f/General-Grants-Program/blob/master/grants/grant_application_template.md) when making your application post. If you have privacy concerns, please reach out to us directly instead.
+- In our [forum](https://forum.plasmnet.io), navigate to the "Acceleration Program" category and create a thread titled "<insert name of your project>'s application proposal"
+- We recommend taking reference to [W3F's general grant proposal template](https://github.com/w3f/General-Grants-Program/blob/master/grants/grant_application_template.md) when making your application post. If you have any privacy concerns, please reach out to us directly instead.
 
 ## FAQs
 
