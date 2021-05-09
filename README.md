@@ -1,62 +1,82 @@
-# Acceleration-Program
-Shiden Network Acceleration Pogram is designed to support various projects building on Shiden Network. 
+# Shiden Network Acceleration Program
 
-### Apply from [here]()
+insert community designed banner image of the program
 
-This program is operated by Stake Technologies and Parity Technnoloiges under [Builders for Builders program](https://www.parity.io/substrate-builders-program-update-builders-for-builders/) led by Parity Techoloiges.
+## Introduction
 
-## What is Shiden Acceleration Program?
-The purpose of Shiden Acceleration Program is to help Shiden ecosystem projects deliver production-ready products on Shiden Network. 
+The Shiden Network Acceleration Program was created to help further the development, growth and adoption of Shiden Network by supporting projects who are building on the Shiden ecosystem. The program is operated by Stake Technologies with guidance from Parity Technologies under the [Builders for Builders initiative](https://www.parity.io/substrate-builders-program-update-builders-for-builders/).
 
-### Path to Success
-- Application (Apply from [here]())
-- Evaluation (The Acceleration team review the submission)
-- Accept 
-- Milestone (We decide technical milestones together)
-- Launch Support
-- Grant Program (After the successful graduation, we continue to support projects)
+## Who and what are we looking for?
 
-## Who the Program is For?
-The following projects are eligible for this acceleration program.
+Unlike other acceleration programs, our program is **idea agnostic**. Our focus has always been on the community and product development and as such, the Shiden Network Acceleration Program is designed in a similar fashion - we are interested in **high quality teams** that are building **applications that the community wants** and have shown a **track record of successfully delivering on their milestones**.
 
-- DApps Project
-  - Shiden Network supports both EVM and WASM. This includes DeFi, NFTs, and DAO.
-- Infrastructure Project
-  - This includes orale, block explorer, and toolings. 
-- Parachain and L1
-  - Shiden will be connected to other L1 chains and Parachains. This includes bridges and cross chain integrations.
+There is also a separate track for new and innovative ideas so if you think you fall under that category, please apply [here](#how-to-apply).
 
-## What the program entails?
-### Technical supports
-- The core dev team at Stake Technnologies will walk you through how to develop and maintain applications/infrastructures on the Shiden Network. 
-- The team notifies upcoming updates and technical milestones prior to the official announcements.
-- The selected teams will be invited to our Discord group.
-- The selected teams will have a bi-weekly meeting with the core team to solve technical problems.  
-- Audit
+## Why should I apply?
 
-### Fudnraising supports
-- Stake Technologies introduces blockchain/crypto investors who joined our institutional rounds and lockdrops. 
-- Since Shiden Network natively supports DApps Staking by design, developers can earn SDN tokens by making products on Shiden. During the acceleration progam, all teams are evaluated by the Shiden Network community through DApps Staking. Based on the evaluation, Stake Technologies gives teams a grant.
+We understand that any talented teams will have no problems applying to other programs so aside from your typical financial support, we will also provide the following:
 
-### Marketing supports
-- Social marketing (Twitter, Telegram, Discord).
-- Invite our community meetup and conference as a speaker.
-- Introduce other projects 
+### Technical support
 
-## How to Participate in the Program?
-- Fill out [this form]()
-- Fork this repository
-- Copy XXXX and edit the file
-- Create a Pull Request 
+- During the onboarding phase, one of our core devs will walk your team through on how to develop and maintain applications/infrastructures on the Shiden Network.
+- We will set up an exclusive discord group between your team and our core devs for you to ask any questions.
+- If you are still unable to resolve these issues, we can arrange for ad-hoc meetings with the core team to solve these technical problems.
+- Preliminary security audits will also be provided for teams who are building DApps.
 
-## What is Shiden Grants Program?
-After thesuccessful launnch of Shiden Acceleration Program and becoming a Kusama Parachain, we will soonly start Shiden Grants Program.
+### Network and Fundraising support
 
-## What is Builders for Builders program?
->Builders for Builders is a new initiative that aims to empower teams building Substrate-based parachains to develop and grow their own ecosystem of builders developing on top of their parachain. As part of the Builders for Builders initiative, the Substrate Builders Program team will share best practices gained from running the SBP for over a year now to help parachain teams build their own similar programs for teams building solutions on top of their parachain. These programs, called Parachain Builders Programs (PBP) will allow parachain teams to become mentors to others and develop their own thriving community of builders, enriching the Polkadot ecosystem as a whole. 
+- We have access to a huge network of traditional / crypto investors, industry experts, blockchain mentors, exchanges, VCs, marketmakers etc. all of which we can link you up with to elevate your project to the next level.
+- A very unique feature of the Shiden Network is [DApps staking](https://docs.plasmnet.io/build/dapps-reward) where developers can earn SDN tokens by developing and deploying applications on the Shiden. These additional SDN tokens can help to supplement your team's income.
+### Marketing support
+
+- As the saying goes "You can have the best product in the world, but if nobody knows about it, what good is it?" so part of what we can also do is to help promote your project on the various social media platforms like Twitter, Telegram etc.
+- You will also be invited to our community meetups and conferences as a guest speaker to share more about your project and to grow your community.
+- We are a big fan of cross collaboration between projects in the ecosystem and will help to link your team with other projects in the acceleration program to create something amazing.
+
+### Post graduation support
+
+- It's hard to get into the Shiden Network Acceleration Program, even harder to graduate from it so if you made it through the entire process, congratulations! As a final gift from us to you, should you ever need help for your future projects, feel free to reach out to us and we will try our best to help you.
+
+## How to apply?
+
+- In our [forum](https://forum.plasmnet.io), navigate to the "Acceleration Program" category and create a thread titled "name of your project's application proposal"
+- We recommend taking reference to [W3F's general grant proposal template](https://github.com/w3f/General-Grants-Program/blob/master/grants/grant_application_template.md) when making your application post. If you have any privacy concerns, please reach out to us directly instead.
+
+## FAQs
+
+### What is Builders for Builders program?
+
+> Builders for Builders is a new initiative that aims to empower teams building Substrate-based parachains to develop and grow their own ecosystem of builders developing on top of their parachain. As part of the Builders for Builders initiative, the Substrate Builders Program team will share best practices gained from running the SBP for over a year now to help parachain teams build their own similar programs for teams building solutions on top of their parachain. These programs, called Parachain Builders Programs (PBP) will allow parachain teams to become mentors to others and develop their own thriving community of builders, enriching the Polkadot ecosystem as a whole.
 
 Learn more from [here](https://www.parity.io/substrate-builders-program-update-builders-for-builders/)
 
-## FAQ
-### Does Stake Technologies charge fees?
+### Who can apply?
+
+Anyone! It doesn't matter if you want to work on it yourself or if you have a team, as long as you believe you have what it takes, go ahead and apply!
+
+### What makes a good application?
+
+- A well thought out proposal.
+- A competent team with a track record of delivering.
+- The project is something that the community wants.
+- The team has the community's best interest at heart.
+
+### What is the application process like?
+
+1. [Apply from here](#how-to-apply)
+2. Assessment (An interview will be scheduled between the acceleration team and yours to get to know your team a little better.)
+3. Evaluate (We will evaluate your application by taking into consideration your proposal, the assessment interview and the community's sentiment.)
+4. Feedback and decision (When the review process is completed, we will relay our feedback and decision to your team.)
+5. Onboarding to the program for successful applicants.
+
+### Are there an application fees?
+
 No.
+
+### How long will it take before I hear back from you?
+
+You should hear back from us within a few days of making a PR.
+
+### When will the Shiden Acceleration Program begin?
+
+After successfully winning the Kusama Parachain Auction.
