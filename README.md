@@ -8,9 +8,22 @@ The Shiden Network Acceleration Program was created to help further the developm
 
 ## Who and what are we looking for?
 
-Unlike other acceleration programs, our program is **idea agnostic**. Our focus has always been on the community and product development and as such, the Shiden Network Acceleration Program is designed in a similar fashion - we are interested in **high quality teams** that are building **applications that the community wants** and have shown a **track record of successfully delivering on their milestones**.
+Unlike other acceleration programs, our program is **idea agnostic**. Our focus has always been on the community and product development and as such, the Shiden Network Acceleration Program is designed in a similar fashion - we are interested in **high quality teams** that are building **applications that the community wants**.
 
-There is also a separate track for new and innovative ideas so if you think you fall under that category, please apply [here](#how-to-apply).
+This can be broadly categorised under 2 different tracks, the ecosystem track and the innovation track. 
+
+### Ecosystem Track
+
+As the name suggests, the ecosystem track is an umbrella term to categorise any applications or services that can help improve the adoption of the ecosystem. Some common examples include:
+
+- dApps (dexes, lending platforms, mixers, insurance)
+- developer tools (libraries, pallets, debugging tools)
+- infrastructure (custodians, bridges, oracles, analytics)
+- integration grants (port over and maintain dapps from other blockchains)
+
+### Innovation Track
+
+The innovation track is focused primarily on research and theory. Some examples of what falls under the innovation track could be code obfuscation, cryptography, reputation systems or even unique dapp ideas. 
 
 ## Why should I apply?
 
