@@ -1,4 +1,4 @@
-# Acceleration Program for Plasm Network and Shiden Network
+# Acceleration Program for Plasm and Shiden Network
 
 insert community designed banner image of the program
 
@@ -34,18 +34,18 @@ We understand that any talented teams will have no problems applying to other ac
 - During the onboarding phase, one of our core devs will walk your team through on how to develop and maintain applications / infrastructures on Plasm / Shiden Network.
 - We will set up an exclusive discord group between your team and our core devs for you to ask any questions.
 - If you are still unable to resolve these issues, we can arrange for ad-hoc meetings with the core team to solve these technical problems.
-- We can also provide preliminary code reviews prior to your submission for the milestone.
+- We can also provide preliminary code reviews prior to your milestone submission.
 
 ### Network and Fundraising support
 
 - We have access to a huge network of traditional / crypto investors, industry experts, blockchain mentors, exchanges, marketmakers etc. all of which we can link you up with to elevate your project to the next level.
-- A very unique feature of the Plasm / Shiden Network is [DApps staking](https://docs.plasmnet.io/build/dapps-reward) where developers can earn SDN tokens by developing and deploying applications on Plasm / Shiden. These tokens can provide additional supplementary income for your team.
+- A very unique feature of the Plasm / Shiden Network is [DApps staking](https://docs.plasmnet.io/build/dapps-reward) where developers can earn PLM / SDN tokens by developing and deploying applications. These tokens can provide additional supplementary income for your team.
 
 ### Marketing support
 
 - We can help to promote your project on our various social media platforms like Twitter, Telegram etc.
 - You will also be invited to our community meetups and conferences as a guest speaker to share more about your project and to grow your community.
-- We are a big fan of cross collaboration between projects in the ecosystem and will help to link your team with other projects in the acceleration program to create something amazing.
+- We are a big fan of cross collaboration between projects in the ecosystem and will help to connect your team with other projects in the Acceleration Program to create something amazing.
 
 ### Post graduation support
 
@@ -57,19 +57,19 @@ Aside from the Acceleration Program, there are 4 more compelling reasons why you
 
 1. X-VM (cross virtual machine) interoperability
 
-It doesn't matter where your contracts are deployed, be it the EVM, the OVM or even WASM, as long as it's on Plasm / Shiden network, all contracts can interact with each other!
+    It doesn't matter where your contracts are deployed, be it the EVM, the OVM or even WASM, as long as it's on Plasm / Shiden network, all contracts can interact with each other!
 
 2. Full Ethereum compatibility
 
-We support all major Ethereum development tools like metamask, remix, truffle, hardhat etc. Deploying contracts on Plasm / Shiden is as simple as changing the rpc url!
+    We support all major Ethereum development tools like metamask, remix, truffle, hardhat etc. Deploying contracts on Plasm / Shiden is as simple as changing the rpc url!
 
 3. Dapps staking
 
-As mentioneded [previously](#network-and-fundraising-support), dapps staking is a unique feature of Plasm / Shiden Network. There are no other parachains where you can get paid for deploying contracts onto the blockchain!
+    As mentioneded [previously](#network-and-fundraising-support), dapps staking is a unique feature of Plasm / Shiden Network. There are no other parachains where you can get paid for deploying contracts onto the blockchain!
 
 4. Scalable from the get-go
 
-If your application requires a much higher throughput, you can easily take advantage of one of the natively supported layer 2 modules like Plasma, OVM or ZK rollups!
+    If your application requires a much higher throughput, you can easily take advantage of one of the natively supported layer 2 modules like Plasma, OVM or ZK rollups!
 
 ## How to apply?
 
@@ -92,11 +92,12 @@ The Acceleration Programs for both Plasm Network and Shiden Network will go live
 
 No.
 
+
 ### What is the application process like?
 
-#### 1. Apply from here
+#### 1. Application
 
-[here](#how-to-apply)
+[Apply here](#how-to-apply)
 
 #### 2. Assessment
 
@@ -119,6 +120,10 @@ Once the Acceleration Program committee reaches a majority agreement, we will re
 
 Successful applicants will be onboarded to the program as [shared earlier](#technical-support).
 
+### How long will it take before I hear back from you?
+
+You should hear back from us within a few days of posting on the forum.
+
 ### Who is in the Acceleration Program Committee?
 
 The Acceleration Program currently consists of 8 members, 4 from the Plasm team and 4 ambassadors from our community. These 8 individuals will pull together their unique skillset and experiences to perform a comprehensive evaluation of your application. Note that if a consensus cannot be reached, the default behaviour is to reject the application.
@@ -130,6 +135,4 @@ The Acceleration Program currently consists of 8 members, 4 from the Plasm team 
 - A technically capable team that is transparent and ambitious.
 - Your team has the community's best interest at heart.
 
-### How long will it take before I hear back from you?
 
-You should hear back from us within a few days of posting on the forum.
