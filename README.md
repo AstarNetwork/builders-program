@@ -8,9 +8,9 @@ Our Acceleration Program was created to help further the development, growth and
 
 ## Who and what are we looking for?
 
-Unlike other acceleration programs, our program is **idea agnostic**. Our focus has always been on the community and product development and as such, the Shiden Network Acceleration Program is designed in a similar fashion - we are interested in **high quality teams** that are building **applications that the community wants**.
+Unlike other acceleration programs, our program is **idea agnostic**. Our focus has always been on the community and product development and we have designed the program as such - we are interested in **high quality teams** that are building **applications that the community wants**.
 
-This can be broadly categorised under 2 different tracks, the ecosystem track and the innovation track. 
+This can be broadly split into 2 different tracks, the ecosystem track and the innovation track.
 
 ### Ecosystem Track
 
