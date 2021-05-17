@@ -23,7 +23,7 @@ As the name suggests, the ecosystem track is an umbrella term to categorise any 
 
 ### Innovation Track
 
-The innovation track is focused primarily on research and theory. Some examples of what falls under the innovation track could be code obfuscation, cryptography, reputation systems or even unique dapp ideas. 
+The innovation track is focused primarily on research and theory. Some examples of what falls under the innovation track could be code obfuscation, cryptography, reputation systems or even unique dapp ideas.
 
 ## Why should I apply?
 
