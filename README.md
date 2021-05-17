@@ -25,13 +25,13 @@ As the name suggests, the ecosystem track is an umbrella term to categorise any 
 
 The innovation track is focused primarily on research and theory. Some examples of what falls under the innovation track could be code obfuscation, cryptography, reputation systems or even unique dapp ideas.
 
-## Why should I apply?
+## Why should I apply for your Acceleration Program?
 
-We understand that any talented teams will have no problems applying to other programs so aside from your typical financial support, we will also provide the following:
+We understand that any talented teams will have no problems applying to other acceleration programs so aside from your typical financial support, we will also provide the following:
 
 ### Technical support
 
-- During the onboarding phase, one of our core devs will walk your team through on how to develop and maintain applications/infrastructures on the Shiden Network.
+- During the onboarding phase, one of our core devs will walk your team through on how to develop and maintain applications / infrastructures on Plasm / Shiden Network.
 - We will set up an exclusive discord group between your team and our core devs for you to ask any questions.
 - If you are still unable to resolve these issues, we can arrange for ad-hoc meetings with the core team to solve these technical problems.
 - Preliminary security audits will also be provided for teams who are building DApps.
