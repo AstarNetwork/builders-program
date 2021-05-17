@@ -97,11 +97,30 @@ Anyone! It doesn't matter if you want to work on it yourself or if you have a te
 
 ### What is the application process like?
 
-1. [Apply from here](#how-to-apply)
-2. Assessment (An interview will be scheduled between the acceleration team and yours to get to know your team a little better.)
-3. Evaluate (We will evaluate your application by taking into consideration your proposal, the assessment interview and the community's sentiment.)
-4. Feedback and decision (When the review process is completed, we will relay our feedback and decision to your team.)
-5. Onboarding to the program for successful applicants.
+#### 1. Apply from here
+
+[here](#how-to-apply)
+
+#### 2. Assessment
+
+An informal call will be scheduled between your team and the Acceleration Program committee. The purpose of this call is to get to know your team better, your motivations etc.
+
+#### 3. Evaluation
+
+The Acceleration Program committee will evaluate your application based on the following factors:
+
+- your proposal
+- your informal chat with us
+- your interactions with the commmunity
+- the community's sentiments towards your team and idea.
+
+#### 4. Feedback and Decision
+
+Once the Acceleration Program committee reaches a majority agreement, we will relay our feedback and decision to your team via the forum. Note that our decisions are not set in stone i.e. if there is overwhelming support from the community for your project, we will reconsider our decision.
+
+#### 5. Onboarding
+
+Successful applicants will be onboarded to the program as [shared earlier](#technical-support).
 
 ### Are there an application fees?
 
