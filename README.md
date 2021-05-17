@@ -51,6 +51,25 @@ We understand that any talented teams will have no problems applying to other ac
 
 - It's hard to get into our Acceleration Program, even harder to graduate from it so if you made it through the entire process, congratulations! As a final gift from us, should you ever need help for your future projects, feel free to reach out to us and we will try our best to help you.
 
+## Why build on Plasm Network & Shiden Network?
+
+Aside from the Acceleration Program, there are 4 more compelling reasons why you would build here instead of other smart contract enabled parachains.
+
+1. X-VM (cross virtual machine) interoperability
+
+It doesn't matter where your contracts are deployed, be it the EVM, the OVM or even WASM, as long as it's on Plasm / Shiden network, all contracts can interact with each other!
+
+2. Full Ethereum compatibility
+
+We support all major Ethereum development tools like metamask, remix, truffle, hardhat etc. Deploying contracts on Plasm / Shiden is as simple as changing the rpc url!
+
+3. Dapps staking
+
+As mentioneded [previously](#network-and-fundraising-support), dapps staking is a unique feature of Plasm / Shiden Network. There are no other parachains where you can get paid for deploying contracts onto the blockchain!
+
+4. Scalable from the get-go
+
+If your application requires a much higher throughput, you can easily take advantage of one of the natively supported layer 2 modules like Plasma, OVM or ZK rollups!
 
 ## How to apply?
 
