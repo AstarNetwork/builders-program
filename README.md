@@ -122,9 +122,9 @@ Once the Acceleration Program committee reaches a majority agreement, we will re
 
 Successful applicants will be onboarded to the program as [shared earlier](#technical-support).
 
-### Are there an application fees?
+### Who is in the Acceleration Program Committee?
 
-No.
+The Acceleration Program currently consists of 8 members, 4 from the Plasm team and 4 ambassadors from our community. These 8 individuals will pull together their unique skillset and experiences to perform a comprehensive evaluation of your application. Note that if a consensus cannot be reached, the default behaviour is to reject the application.
 
 ### How long will it take before I hear back from you?
 
