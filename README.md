@@ -1,4 +1,4 @@
-# Shiden Network Acceleration Program
+# Acceleration Program for Plasm Network and Shiden Network
 
 insert community designed banner image of the program
 
