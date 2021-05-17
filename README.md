@@ -34,7 +34,7 @@ We understand that any talented teams will have no problems applying to other ac
 - During the onboarding phase, one of our core devs will walk your team through on how to develop and maintain applications / infrastructures on Plasm / Shiden Network.
 - We will set up an exclusive discord group between your team and our core devs for you to ask any questions.
 - If you are still unable to resolve these issues, we can arrange for ad-hoc meetings with the core team to solve these technical problems.
-- Preliminary security audits will also be provided for teams who are building DApps.
+- We can also provide preliminary code reviews prior to your submission for the milestone.
 
 ### Network and Fundraising support
 
