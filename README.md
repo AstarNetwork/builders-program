@@ -84,16 +84,13 @@ If your application requires a much higher throughput, you can easily take advan
 
 Learn more from [here](https://www.parity.io/substrate-builders-program-update-builders-for-builders/)
 
-### Who can apply?
+### When will the Acceleration Program commence and how long will it run for?
 
-Anyone! It doesn't matter if you want to work on it yourself or if you have a team, as long as you believe you have what it takes, go ahead and apply!
+The Acceleration Programs for both Plasm Network and Shiden Network will go live soon after winning their respective parachain auctions i.e. Polkadot for Plasm and Kusama for Shiden.
 
-### What makes a good application?
+### Are there any application fees?
 
-- A well thought out proposal.
-- A competent team with a track record of delivering.
-- The project is something that the community wants.
-- The team has the community's best interest at heart.
+No.
 
 ### What is the application process like?
 
@@ -126,10 +123,13 @@ Successful applicants will be onboarded to the program as [shared earlier](#tech
 
 The Acceleration Program currently consists of 8 members, 4 from the Plasm team and 4 ambassadors from our community. These 8 individuals will pull together their unique skillset and experiences to perform a comprehensive evaluation of your application. Note that if a consensus cannot be reached, the default behaviour is to reject the application.
 
+### What makes a good application?
+
+- A well thought out proposal.
+- Positive interaction on the forum with our community.
+- A technically capable team that is transparent and ambitious.
+- Your team has the community's best interest at heart.
+
 ### How long will it take before I hear back from you?
 
-You should hear back from us within a few days of making a PR.
-
-### When will the Shiden Acceleration Program begin?
-
-After successfully winning the Kusama Parachain Auction.
+You should hear back from us within a few days of posting on the forum.
