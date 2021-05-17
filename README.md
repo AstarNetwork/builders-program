@@ -4,7 +4,7 @@ insert community designed banner image of the program
 
 ## Introduction
 
-The Shiden Network Acceleration Program was created to help further the development, growth and adoption of Shiden Network by supporting projects who are building on the Shiden ecosystem. The program is operated by Stake Technologies with guidance from Parity Technologies under the [Builders for Builders initiative](https://www.parity.io/substrate-builders-program-update-builders-for-builders/).
+Our Acceleration Program was created to help further the development, growth and adoption of Plasm Network and Shiden Network by supporting teams who are building on our ecosystem. The program is operated by Stake Technologies with guidance from Parity Technologies under the [Builders for Builders initiative](https://www.parity.io/substrate-builders-program-update-builders-for-builders/).
 
 ## Who and what are we looking for?
 
