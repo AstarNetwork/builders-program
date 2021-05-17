@@ -73,7 +73,7 @@ If your application requires a much higher throughput, you can easily take advan
 
 ## How to apply?
 
-- In our [forum](https://forum.plasmnet.io), navigate to the "Acceleration Program" category and create a thread titled "name of your project's application proposal"
+- On our [forum](https://forum.plasmnet.io/c/acceleration-program/14), create a thread titled "name of your project's application proposal"
 - We recommend taking reference to [W3F's general grant proposal template](https://github.com/w3f/General-Grants-Program/blob/master/grants/grant_application_template.md) when making your application post. If you have any privacy concerns, please reach out to us directly instead.
 
 ## FAQs
