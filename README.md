@@ -135,4 +135,10 @@ The Acceleration Program currently consists of 8 members, 4 from the Plasm team 
 - A technically capable team that is transparent and ambitious.
 - Your team has the community's best interest at heart.
 
+### Will grants be given out in the program?
 
+Yes. Prior to commencing any work, we (you and the Acceleration Program committee) have to come to an agreement as to how much will be disbursed upon delivering on the milestones. There should be a detailed breakdown of this in your proposal.
+
+### How much grants can I apply for?
+
+There is no hardcap per se so you need to approximate accordingly to how much you are willing to work for. We will not take advantage of you but do not expect us to agree to a 1m USD proposal for minimal changes.
