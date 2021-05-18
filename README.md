@@ -39,7 +39,7 @@ We understand that any talented teams will have no problems applying to other ac
 ### Network and Fundraising support
 
 - We have access to a huge network of traditional / crypto investors, industry experts, blockchain mentors, exchanges, marketmakers etc. all of which we can link you up with to elevate your project to the next level.
-- A very unique feature of the Plasm / Shiden Network is [DApps staking](https://docs.plasmnet.io/build/dapps-reward) where developers can earn PLM / SDN tokens by developing and deploying applications. These tokens can provide additional supplementary income for your team.
+- A very unique feature of the Plasm / Shiden Network is [DApps staking](https://docs.plasmnet.io/build/dapps-reward) where developers can earn PLM / SDN tokens by developing and deploying applications. These tokens can provide additional supplementary income for your team. **The better the performance of your dapp (determined by how many tokens are delegated to you), the more tokens you will receive from each block.**
 
 ### Marketing support
 
