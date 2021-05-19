@@ -88,6 +88,14 @@ Learn more from [here](https://www.parity.io/substrate-builders-program-update-b
 
 The Acceleration Programs for both Plasm Network and Shiden Network will go live soon after winning their respective parachain auctions i.e. Polkadot for Plasm and Kusama for Shiden.
 
+### What is the difference between Plasm Network and Shiden Network?
+
+Shiden is to Plasm what Kusama is to Polkadot. Shiden is our canary network.
+
+### Is this Acceleration Program for Plasm Network or Shiden Network?
+
+The acceleration program is for both but it will start with Shiden Network first. Once we win the Kusama parachain auction, we will go live with Acceleration Program for Shiden Network. Once we win the Polkadot parachain auction, we will go live with the Acceleration Program for Plasm Network.
+
 ### Are there any application fees?
 
 No.
