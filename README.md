@@ -1,6 +1,8 @@
 # Acceleration Program for Plasm and Shiden Network
 
-insert community designed banner image of the program
+<p align="center">
+  <img src="banner.jpeg" style="width:1000px";>
+</p>
 
 ## Introduction
 
@@ -57,19 +59,19 @@ Aside from the Acceleration Program, there are 4 more compelling reasons why you
 
 1. X-VM (cross virtual machine) interoperability
 
-    It doesn't matter where your contracts are deployed, be it the EVM, the OVM or even WASM, as long as it's on Plasm / Shiden network, all contracts can interact with each other!
+   It doesn't matter where your contracts are deployed, be it the EVM, the OVM or even WASM, as long as it's on Plasm / Shiden network, all contracts can interact with each other!
 
 2. Full Ethereum compatibility
 
-    We support all major Ethereum development tools like metamask, remix, truffle, hardhat etc. Deploying contracts on Plasm / Shiden is as simple as changing the rpc url!
+   We support all major Ethereum development tools like metamask, remix, truffle, hardhat etc. Deploying contracts on Plasm / Shiden is as simple as changing the rpc url!
 
 3. Dapps staking
 
-    As mentioneded [previously](#network-and-fundraising-support), dapps staking is a unique feature of Plasm / Shiden Network. There are no other parachains where you can get paid for deploying contracts onto the blockchain!
+   As mentioneded [previously](#network-and-fundraising-support), dapps staking is a unique feature of Plasm / Shiden Network. There are no other parachains where you can get paid for deploying contracts onto the blockchain!
 
 4. Scalable from the get-go
 
-    If your application requires a much higher throughput, you can easily take advantage of one of the natively supported layer 2 modules like Plasma, OVM or ZK rollups!
+   If your application requires a much higher throughput, you can easily take advantage of one of the natively supported layer 2 modules like Plasma, OVM or ZK rollups!
 
 ## How to apply?
 
@@ -99,7 +101,6 @@ The acceleration program is for both but it will start with Shiden Network first
 ### Are there any application fees?
 
 No.
-
 
 ### What is the application process like?
 
@@ -150,3 +151,6 @@ Yes. Prior to commencing any work, we (you and the Acceleration Program committe
 ### How much grants can I apply for?
 
 There is no hardcap per se so you need to approximate accordingly to how much you are willing to work for. We will not take advantage of you but do not expect us to agree to a 1m USD proposal for minimal changes.
+
+## Credits
+- Banner - [LONG_DUONG](https://forum.plasmnet.io/t/vote-on-your-favourite-banner/1181/7)
