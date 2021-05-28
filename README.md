@@ -1,4 +1,4 @@
-# Acceleration Program for Plasm and Shiden Network
+# Builders Program for Plasm and Shiden Network
 
 <p align="center">
   <img src="banner.jpeg" style="width:1000px";>
@@ -6,11 +6,11 @@
 
 ## Introduction
 
-Our Acceleration Program was created to help further the development, growth and adoption of Plasm Network and Shiden Network by supporting teams who are building on our ecosystem. The program is operated by Stake Technologies with guidance from Parity Technologies under the [Builders for Builders initiative](https://www.parity.io/substrate-builders-program-update-builders-for-builders/).
+Our Builders Program was created to help further the development, growth and adoption of Plasm Network and Shiden Network by supporting teams who are building on our ecosystem. The program is operated by Stake Technologies with guidance from Parity Technologies under the [Builders for Builders initiative](https://www.parity.io/substrate-builders-program-update-builders-for-builders/).
 
 ## Who and what are we looking for?
 
-Unlike other acceleration programs, our program is **idea agnostic**. Our focus has always been on the community and product development and we have designed the program as such - we are interested in **high quality teams** that are building **applications that the community wants**.
+Unlike other programs, our program is **idea agnostic**. Our focus has always been on the community and product development and we have designed the program as such - we are interested in **high quality teams** that are building **applications that the community wants**.
 
 This can be broadly split into 2 different tracks, the ecosystem track and the innovation track.
 
@@ -27,9 +27,9 @@ As the name suggests, the ecosystem track is an umbrella term to categorise any 
 
 The innovation track is focused primarily on research and theory. Some examples of what falls under the innovation track could be code obfuscation, cryptography, reputation systems or even unique dapp ideas.
 
-## Why should I apply for your Acceleration Program?
+## Why should I apply for your Builders Program?
 
-We understand that any talented teams will have no problems applying to other acceleration programs so aside from your typical financial support, we will also provide the following:
+We understand that any talented teams will have no problems applying to other programs so aside from your typical financial support, we will also provide the following:
 
 ### Technical support
 
@@ -47,15 +47,15 @@ We understand that any talented teams will have no problems applying to other ac
 
 - We can help to promote your project on our various social media platforms like Twitter, Telegram etc.
 - You will also be invited to our community meetups and conferences as a guest speaker to share more about your project and to grow your community.
-- We are a big fan of cross collaboration between projects in the ecosystem and will help to connect your team with other projects in the Acceleration Program to create something amazing.
+- We are a big fan of cross collaboration between projects in the ecosystem and will help to connect your team with other projects in the Builders Program to create something amazing.
 
 ### Post graduation support
 
-- It's hard to get into our Acceleration Program, even harder to graduate from it so if you made it through the entire process, congratulations! As a final gift from us, should you ever need help for your future projects, feel free to reach out to us and we will try our best to help you.
+- It's hard to get into our Builders Program, even harder to graduate from it so if you made it through the entire process, congratulations! As a final gift from us, should you ever need help for your future projects, feel free to reach out to us and we will try our best to help you.
 
 ## Why build on Plasm Network & Shiden Network?
 
-Aside from the Acceleration Program, there are 4 more compelling reasons why you would build here instead of other smart contract enabled parachains.
+Aside from the Builders Program, there are 4 more compelling reasons why you would build here instead of other smart contract enabled parachains.
 
 1. X-VM (cross virtual machine) interoperability
 
@@ -75,28 +75,28 @@ Aside from the Acceleration Program, there are 4 more compelling reasons why you
 
 ## How to apply?
 
-- On our [forum](https://forum.plasmnet.io/c/acceleration-program/14), create a thread titled "name of your project's application proposal"
+- On our [forum](https://forum.plasmnet.io/c/builders-program/14), create a thread titled "name of your project's application proposal"
 - We recommend taking reference to [W3F's general grant proposal template](https://github.com/w3f/General-Grants-Program/blob/master/grants/grant_application_template.md) when making your application post. If you have any privacy concerns, please reach out to us directly instead.
 
 ## FAQs
 
-### What is Builders for Builders program?
+### What is Builders for Builders Program?
 
 > Builders for Builders is a new initiative that aims to empower teams building Substrate-based parachains to develop and grow their own ecosystem of builders developing on top of their parachain. As part of the Builders for Builders initiative, the Substrate Builders Program team will share best practices gained from running the SBP for over a year now to help parachain teams build their own similar programs for teams building solutions on top of their parachain. These programs, called Parachain Builders Programs (PBP) will allow parachain teams to become mentors to others and develop their own thriving community of builders, enriching the Polkadot ecosystem as a whole.
 
 Learn more from [here](https://www.parity.io/substrate-builders-program-update-builders-for-builders/)
 
-### When will the Acceleration Program commence and how long will it run for?
+### When will the Builders Program commence and how long will it run for?
 
-The Acceleration Programs for both Plasm Network and Shiden Network will go live soon after winning their respective parachain auctions i.e. Polkadot for Plasm and Kusama for Shiden.
+The Builders Programs for both Plasm Network and Shiden Network will go live soon after winning their respective parachain auctions i.e. Polkadot for Plasm and Kusama for Shiden.
 
 ### What is the difference between Plasm Network and Shiden Network?
 
 Shiden is to Plasm what Kusama is to Polkadot. Shiden is our canary network.
 
-### Is this Acceleration Program for Plasm Network or Shiden Network?
+### Is this Builders Program for Plasm Network or Shiden Network?
 
-The acceleration program is for both but it will start with Shiden Network first. Once we win the Kusama parachain auction, we will go live with Acceleration Program for Shiden Network. Once we win the Polkadot parachain auction, we will go live with the Acceleration Program for Plasm Network.
+The Builders Program is for both but it will start with Shiden Network first. Once we win the Kusama parachain auction, we will go live with Builders Program for Shiden Network. Once we win the Polkadot parachain auction, we will go live with the Builders Program for Plasm Network.
 
 ### Are there any application fees?
 
@@ -110,11 +110,11 @@ No.
 
 #### 2. Assessment
 
-An informal call will be scheduled between your team and the Acceleration Program committee. The purpose of this call is to get to know your team better, your motivations etc.
+An informal call will be scheduled between your team and the Builders Program committee. The purpose of this call is to get to know your team better, your motivations etc.
 
 #### 3. Evaluation
 
-The Acceleration Program committee will evaluate your application based on the following factors:
+The Builders Program committee will evaluate your application based on the following factors:
 
 - your proposal
 - your informal chat with us
@@ -123,7 +123,7 @@ The Acceleration Program committee will evaluate your application based on the f
 
 #### 4. Feedback and Decision
 
-Once the Acceleration Program committee reaches a majority agreement, we will relay our feedback and decision to your team via the forum. Note that our decisions are not set in stone i.e. if there is overwhelming support from the community for your project, we will reconsider our decision.
+Once the Builders Program committee reaches a majority agreement, we will relay our feedback and decision to your team via the forum. Note that our decisions are not set in stone i.e. if there is overwhelming support from the community for your project, we will reconsider our decision.
 
 #### 5. Onboarding
 
@@ -133,9 +133,9 @@ Successful applicants will be onboarded to the program as [shared earlier](#tech
 
 You should hear back from us within a few days of posting on the forum.
 
-### Who is in the Acceleration Program Committee?
+### Who is in the Builders Program Committee?
 
-The Acceleration Program currently consists of 8 members, 4 from the Plasm team and 4 ambassadors from our community. These 8 individuals will pull together their unique skillset and experiences to perform a comprehensive evaluation of your application. Note that if a consensus cannot be reached, the default behaviour is to reject the application.
+The Builders Program currently consists of 8 members, 4 from the Plasm team and 4 ambassadors from our community. These 8 individuals will pull together their unique skillset and experiences to perform a comprehensive evaluation of your application. Note that if a consensus cannot be reached, the default behaviour is to reject the application.
 
 ### What makes a good application?
 
@@ -146,7 +146,7 @@ The Acceleration Program currently consists of 8 members, 4 from the Plasm team 
 
 ### Will grants be given out in the program?
 
-Yes. Prior to commencing any work, we (you and the Acceleration Program committee) have to come to an agreement as to how much will be disbursed upon delivering on the milestones. There should be a detailed breakdown of this in your proposal.
+Yes. Prior to commencing any work, we (you and the Builders Program committee) have to come to an agreement as to how much will be disbursed upon delivering on the milestones. There should be a detailed breakdown of this in your proposal.
 
 ### How much grants can I apply for?
 
