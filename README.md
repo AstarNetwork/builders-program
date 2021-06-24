@@ -6,13 +6,11 @@
 
 ## Introduction
 
-Our Builders Program was created to help further the development, growth and adoption of Plasm Network and Shiden Network by supporting teams who are building on our ecosystem. The program is operated by Stake Technologies with guidance from Parity Technologies under the [Builders for Builders initiative](https://www.parity.io/substrate-builders-program-update-builders-for-builders/).
+The Plasm / Shiden Network Builders Program was created to help further the development, growth and adoption of our ecosystem by supporting teams who are building on it. The program is operated by Stake Technologies with guidance from Parity Technologies under the [Builders for Builders initiative](https://www.parity.io/substrate-builders-program-update-builders-for-builders/).
 
 ## Who and what are we looking for?
 
-Unlike other programs, our program is **idea agnostic**. Our focus has always been on the community and product development and we have designed the program as such - we are interested in **high quality teams** that are building **applications that the community wants**.
-
-This can be broadly split into 2 different tracks, the ecosystem track and the innovation track.
+We are always focused on the community and on product development so we have designed the program in a similar fashion - we are interested in **high quality teams** that are building **applications that the community wants**. This can be broadly split into 2 different tracks, the ecosystem track and the innovation track.
 
 ### Ecosystem Track
 
@@ -25,7 +23,7 @@ As the name suggests, the ecosystem track is an umbrella term to categorise any 
 
 ### Innovation Track
 
-The innovation track is focused primarily on research and theory. Some examples of what falls under the innovation track could be code obfuscation, cryptography, reputation systems or even unique dapp ideas.
+The innovation track is geared primarily towards research and experimentation. Some examples of what falls under the innovation track could be code obfuscation, cryptography, reputation systems or even unique dapp ideas.
 
 ## Why should I apply for your Builders Program?
 
@@ -33,15 +31,15 @@ We understand that any talented teams will have no problems applying to other pr
 
 ### Technical support
 
-- During the onboarding phase, one of our core devs will walk your team through on how to develop and maintain applications / infrastructures on Plasm / Shiden Network.
-- We will set up an exclusive discord group between your team and our core devs for you to ask any questions.
-- If you are still unable to resolve these issues, we can arrange for ad-hoc meetings with the core team to solve these technical problems.
-- We can also provide preliminary code reviews prior to your milestone submission.
+- In the onboarding phase, one of our devs will walk your team through on how to develop and maintain applications on Plasm / Shiden Network (if required).
+- We will set up an exclusive discord group between your team and our devs for you to ask any questions.
+- Ad-hoc meetings can be arranged with the core team to get help on more complex technical problems.
+- We will also perform preliminary code reviews during your milestone submission.
 
 ### Network and Fundraising support
 
-- We have access to a huge network of traditional / crypto investors, industry experts, blockchain mentors, exchanges, marketmakers etc. all of which we can link you up with to elevate your project to the next level.
-- A very unique feature of the Plasm / Shiden Network is [DApps staking](https://docs.plasmnet.io/build/dapps-reward) where developers can earn PLM / SDN tokens by developing and deploying applications. These tokens can provide additional supplementary income for your team. **The better the performance of your dapp (determined by how many tokens are delegated to you), the more tokens you will receive from each block.**
+- We have access to a huge network of traditional / crypto investors, industry experts, blockchain mentors, exchanges, marketmakers etc. which we can link you up with to take your project to the next level.
+- A very unique feature of the Plasm / Shiden Network is dApps staking where developers can earn PLM / SDN tokens by developing and deploying applications. These tokens can act as supplementary income for your team. **The better the performance of your dapp (determined by how many tokens are nominated to you), the more tokens you will receive from each block.** Please take a look at this [forum post](https://forum.plasmnet.io/t/faq-what-is-dapps-staking/1247) for a more detailed explanation.
 
 ### Marketing support
 
@@ -51,32 +49,32 @@ We understand that any talented teams will have no problems applying to other pr
 
 ### Post graduation support
 
-- It's hard to get into our Builders Program, even harder to graduate from it so if you made it through the entire process, congratulations! As a final gift from us, should you ever need help for your future projects, feel free to reach out to us and we will try our best to help you.
+- It's hard to get into our Builders Program, even harder to graduate from it so if you made it through the entire process, congratulations! As a final gift from us, if you ever need help for your future projects, feel free to reach out to us and we will try our best to help you.
 
 ## Why build on Plasm Network & Shiden Network?
 
-Aside from the Builders Program, there are 4 more compelling reasons why you would build here instead of other smart contract enabled parachains.
+Aside from the Builders Program, there are 4 more compelling reasons why you would build on us instead of other smart contract enabled parachains.
 
 1. X-VM (cross virtual machine) interoperability
 
-   It doesn't matter where your contracts are deployed, be it the EVM, the OVM or even WASM, as long as it's on Plasm / Shiden network, all contracts can interact with each other!
+   Contracts deployed on EVM and WASM are interoperable. In fact, through [XCMP](https://wiki.polkadot.network/docs/learn-crosschain/), we are also able to interact with other smart contracts on other parachains!
 
 2. Full Ethereum compatibility
 
-   We support all major Ethereum development tools like metamask, remix, truffle, hardhat etc. Deploying contracts on Plasm / Shiden is as simple as changing the rpc url!
+   We support all major Ethereum development tools like metamask, remix, truffle, hardhat etc. so deploying contracts on Plasm / Shiden is as simple as changing the RPC URL!
 
 3. Dapps staking
 
-   As mentioneded [previously](#network-and-fundraising-support), dapps staking is a unique feature of Plasm / Shiden Network. There are no other parachains where you can get paid for deploying contracts onto the blockchain!
-
+   As mentioneded [previously](#network-and-fundraising-support), dapps staking is a unique feature of Plasm / Shiden Network. There are no other parachains that naively support dApp developers! 
+   
 4. Scalable from the get-go
 
-   If your application requires a much higher throughput, you can easily take advantage of one of the natively supported layer 2 modules like Plasma, OVM or ZK rollups!
+   If your application requires a much higher throughput, you can easily take advantage of one of the layer 2 modules e.g. Plasma, OVM or ZK rollups that we offer!
 
 ## How to apply?
 
-- On our [forum](https://forum.plasmnet.io/c/builders-program/14), create a thread titled "name of your project's application proposal"
-- We recommend taking reference to [W3F's general grant proposal template](https://github.com/w3f/General-Grants-Program/blob/master/grants/grant_application_template.md) when making your application post. If you have any privacy concerns, please reach out to us directly instead.
+- On our [forum](https://forum.plasmnet.io/c/builders-program/14), create a thread titled "name of your team / company's application proposal"
+- We recommend taking reference to [W3F's general grant proposal template](https://github.com/w3f/General-Grants-Program/blob/master/grants/grant_application_template.md) when making your application post. If there are any privacy concerns, please reach out to us directly on [Telegram](https://t.me/PlasmOfficial) or [Discord](https://discord.gg/sTbJMSg) instead.
 
 ## FAQs
 
@@ -88,7 +86,7 @@ Learn more from [here](https://www.parity.io/substrate-builders-program-update-b
 
 ### When will the Builders Program commence and how long will it run for?
 
-The Builders Programs for both Plasm Network and Shiden Network will go live soon after winning their respective parachain auctions i.e. Polkadot for Plasm and Kusama for Shiden.
+The Builders Programs for both Plasm Network and Shiden Network will go live soon after winning their respective parachain auctions i.e. Polkadot for Plasm and Kusama for Shiden. We accept applications all year round.
 
 ### What is the difference between Plasm Network and Shiden Network?
 
@@ -96,7 +94,7 @@ Shiden is to Plasm what Kusama is to Polkadot. Shiden is our canary network.
 
 ### Is this Builders Program for Plasm Network or Shiden Network?
 
-The Builders Program is for both but it will start with Shiden Network first. Once we win the Kusama parachain auction, we will go live with Builders Program for Shiden Network. Once we win the Polkadot parachain auction, we will go live with the Builders Program for Plasm Network.
+The Builders Program is for both networks. Once we win the Kusama parachain auction, we will go live with Builders Program for Shiden Network. Subsequently, when we have acquired a slot on the Polkadot parachain, we will accept applications for Plasm Network.
 
 ### Are there any application fees?
 
@@ -146,11 +144,15 @@ The Builders Program currently consists of 8 members, 4 from the Plasm team and 
 
 ### Will grants be given out in the program?
 
-Yes. Prior to commencing any work, we (you and the Builders Program committee) have to come to an agreement as to how much will be disbursed upon delivering on the milestones. There should be a detailed breakdown of this in your proposal.
+Yes. Prior to the commencement of any work, we (you and the Builders Program committee) have to come to an agreement as to:
+1. how much will be disbursed upon delivering each milestone
+2. the criteria that will be used to verify that the deliverables are correct
+
+There should be a detailed breakdown of this in your proposal.
 
 ### How much grants can I apply for?
 
-There is no hardcap per se so you need to approximate accordingly to how much you are willing to work for. We will not take advantage of you but do not expect us to agree to a 1m USD proposal for minimal changes.
+There is no hardcap per se so you can request for any amount you want but please be reasonable and don't expect us to agree to a 1m USD proposal for minimal changes.
 
 ## Credits
 - Banner - [LONG_DUONG](https://forum.plasmnet.io/t/vote-on-your-favourite-banner/1181/7)
