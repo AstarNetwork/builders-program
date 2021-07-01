@@ -4,6 +4,26 @@
   <img src="banner.jpeg" style="width:1000px";>
 </p>
 
+> **:loudspeaker:** This builders program is tracked **transparently** on GitHub. For private submissions, please read more in this README file.
+
+---
+
+- [Introduction](#introduction)
+- [Who and what?](#who-and-what-are-we-looking-for)
+   - [Ecosystem track](#ecosystem-track)
+   - [Innovation track](#innovation-track)
+- [Why would I apply?](#why-would-i-apply-for-your-builders-program)
+   - [Technical support](#technical-support)
+   - [Network and Fundraising support](#network-and-fundraising-support)
+   - [Marketing support](#marketing-support)
+   - [Post graduation support](#post-graduation-support)
+- [Why build in Astar ecosystem?](#why-build-in-astar-ecosystem)
+- [How to apply?](#how-to-apply)
+- [FAQs](#faqs)
+- [Credits](#credits)
+
+---
+
 ## Introduction
 
 The Astar / Shiden Network Builders Program was created to help further the development, growth and adoption of our ecosystem by supporting teams who are building on it. The program is operated by Stake Technologies with guidance from Parity Technologies under the [Builders for Builders initiative](https://www.parity.io/substrate-builders-program-update-builders-for-builders/).
@@ -51,7 +71,7 @@ We understand that any talented teams will have no problems applying to other pr
 
 - It's hard to get into our Builders Program, even harder to graduate from it so if you made it through the entire process, congratulations! As a final gift from us, if you ever need help for your future projects, feel free to reach out to us and we will try our best to help you.
 
-## Why build on Astar Network & Shiden Network?
+## Why build in Astar ecosystem?
 
 Aside from the Builders Program, there are 4 more compelling reasons why you would build on us instead of other smart contract enabled parachains.
 
@@ -86,73 +106,74 @@ Learn more from [here](https://www.parity.io/substrate-builders-program-update-b
 
 ### When will the Builders Program commence and how long will it run for?
 
-The Builders Programs for both Astar Network and Shiden Network will go live soon after winning their respective parachain auctions i.e. Polkadot for Astar and Kusama for Shiden. We accept applications all year round.
+> The Builders Programs for both Astar Network and Shiden Network will go live soon after winning their respective parachain auctions i.e. Polkadot for Astar and Kusama for Shiden. We accept applications all year round.
 
 ### What is the difference between Astar Network and Shiden Network?
 
-Shiden is to Astar what Kusama is to Polkadot. Shiden is our canary network.
+> Shiden is to Astar what Kusama is to Polkadot. Shiden is our canary network.
 
 ### Is this Builders Program for Astar Network or Shiden Network?
 
-The Builders Program is for both networks. Once we win the Kusama parachain auction, we will go live with Builders Program for Shiden Network. Subsequently, when we have acquired a slot on the Polkadot parachain, we will accept applications for Astar Network.
+> The Builders Program is for both networks. Once we win the Kusama parachain auction, we will go live with Builders Program for Shiden Network. Subsequently, when we have acquired a slot on the Polkadot parachain, we will accept applications for Astar Network.
 
 ### Are there any application fees?
 
-No.
+> No.
 
 ### What is the application process like?
 
-#### 1. Application
-
-[Apply here](#how-to-apply)
-
-#### 2. Assessment
-
-An informal call will be scheduled between your team and the Builders Program committee. The purpose of this call is to get to know your team better, your motivations etc.
-
-#### 3. Evaluation
-
-The Builders Program committee will evaluate your application based on the following factors:
-
-- your proposal
-- your informal chat with us
-- your interactions with the commmunity
-- the community's sentiments towards your team and idea.
-
-#### 4. Feedback and Decision
-
-Once the Builders Program committee reaches a majority agreement, we will relay our feedback and decision to your team via the forum. Note that our decisions are not set in stone i.e. if there is overwhelming support from the community for your project, we will reconsider our decision.
-
-#### 5. Onboarding
-
-Successful applicants will be onboarded to the program as [shared earlier](#technical-support).
+> #### 1. Application
+> 
+>    [Apply here](#how-to-apply)
+> 
+> #### 2. Assessment
+> 
+>    An informal call will be scheduled between your team and the Builders Program committee. The purpose of this call is to get to know your team better, your motivations etc.
+> 
+> #### 3. Evaluation
+> 
+> The Builders Program committee will evaluate your application based on the following factors:
+> 
+> - your proposal
+> - your informal chat with us
+> - your interactions with the commmunity
+> - the community's sentiments towards your team and idea.
+> 
+> #### 4. Feedback and Decision
+> 
+> Once the Builders Program committee reaches a majority agreement, we will relay our feedback and decision to your team via the forum. Note that our decisions are not set in stone i.e. if there is overwhelming support from the community for your project, we will reconsider our decision.
+> 
+> #### 5. Onboarding
+> 
+> Successful applicants will be onboarded to the program as [shared earlier](#technical-support).
 
 ### How long will it take before I hear back from you?
 
-You should hear back from us within a few days of posting on the forum.
+> You should hear back from us within a few days of posting on the forum.
 
 ### Who is in the Builders Program Committee?
 
-The Builders Program currently consists of 8 members, 4 from the Astar team and 4 ambassadors from our community. These 8 individuals will pull together their unique skillset and experiences to perform a comprehensive evaluation of your application. Note that if a consensus cannot be reached, the default behaviour is to reject the application.
+> The Builders Program currently consists of 8 members, 4 from the Astar team and 4 ambassadors from our community. These 8 individuals will pull together their unique skillset and experiences to perform a comprehensive evaluation of your application. Note that if a consensus cannot be reached, the default behaviour is to reject the application.
 
 ### What makes a good application?
 
-- A well thought out proposal.
-- Positive interaction on the forum with our community.
-- A technically capable team that is transparent and ambitious.
-- Your team has the community's best interest at heart.
+> - A well thought out proposal.
+> - Positive interaction on the forum with our community.
+> - A technically capable team that is transparent and ambitious.
+> - Your team has the community's best interest at heart.
 
 ### Will grants be given out in the program?
 
-Yes. Prior to the commencement of any work, we (you and the Builders Program committee) have to come to an agreement as to:
-1. how much will be disbursed upon delivering each milestone
-2. the criteria that will be used to verify that the deliverables are correct
-
-There should be a detailed breakdown of this in your proposal.
+> Yes. Prior to the commencement of any work, we (you and the Builders Program committee) have to come to an agreement as to:
+> 1. how much will be disbursed upon delivering each milestone
+> 2. the criteria that will be used to verify that the deliverables are correct
+> 
+> There should be a detailed breakdown of this in your proposal.
 
 ### How much grants can I apply for?
 
-There is no hardcap per se so you can request for any amount you want but please be reasonable and don't expect us to agree to a 1m USD proposal for minimal changes.
+> There is no hardcap per se so you can request for any amount you want but please be reasonable and don't expect us to agree to a 1m USD proposal for minimal changes.
 
 ## Credits
 - Banner - [LONG_DUONG](https://forum.plasmnet.io/t/vote-on-your-favourite-banner/1181/7)
+- Builders design - [Simon](https://github.com/STYJ)
