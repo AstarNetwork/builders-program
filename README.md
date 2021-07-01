@@ -17,7 +17,7 @@
    - [Network and Fundraising support](#network-and-fundraising-support)
    - [Marketing support](#marketing-support)
    - [Post graduation support](#post-graduation-support)
-- [Why build on Astar Network & Shiden Network?](#why-build-on-aster-network-&-shiden-network)
+- [Why build in Astar ecosystem?](#why-build-in-astar-ecosystem)
 - [How to apply?](#how-to-apply)
 - [FAQs](#faqs)
 - [Credits](#credits)
@@ -71,7 +71,7 @@ We understand that any talented teams will have no problems applying to other pr
 
 - It's hard to get into our Builders Program, even harder to graduate from it so if you made it through the entire process, congratulations! As a final gift from us, if you ever need help for your future projects, feel free to reach out to us and we will try our best to help you.
 
-## Why build on Astar Network & Shiden Network?
+## Why build in Astar ecosystem?
 
 Aside from the Builders Program, there are 4 more compelling reasons why you would build on us instead of other smart contract enabled parachains.
 
