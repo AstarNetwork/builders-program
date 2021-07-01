@@ -1,4 +1,4 @@
-# Builders Program for Plasm and Shiden Network
+# Builders Program for Astar (formerly Plasm) and Shiden Network
 
 <p align="center">
   <img src="banner.jpeg" style="width:1000px";>
@@ -6,7 +6,7 @@
 
 ## Introduction
 
-The Plasm / Shiden Network Builders Program was created to help further the development, growth and adoption of our ecosystem by supporting teams who are building on it. The program is operated by Stake Technologies with guidance from Parity Technologies under the [Builders for Builders initiative](https://www.parity.io/substrate-builders-program-update-builders-for-builders/).
+The Astar / Shiden Network Builders Program was created to help further the development, growth and adoption of our ecosystem by supporting teams who are building on it. The program is operated by Stake Technologies with guidance from Parity Technologies under the [Builders for Builders initiative](https://www.parity.io/substrate-builders-program-update-builders-for-builders/).
 
 ## Who and what are we looking for?
 
@@ -31,7 +31,7 @@ We understand that any talented teams will have no problems applying to other pr
 
 ### Technical support
 
-- In the onboarding phase, one of our devs will walk your team through on how to develop and maintain applications on Plasm / Shiden Network (if required).
+- In the onboarding phase, one of our devs will walk your team through on how to develop and maintain applications on Astar / Shiden Network (if required).
 - We will set up an exclusive discord group between your team and our devs for you to ask any questions.
 - Ad-hoc meetings can be arranged with the core team to get help on more complex technical problems.
 - We will also perform preliminary code reviews during your milestone submission.
@@ -39,7 +39,7 @@ We understand that any talented teams will have no problems applying to other pr
 ### Network and Fundraising support
 
 - We have access to a huge network of traditional / crypto investors, industry experts, blockchain mentors, exchanges, marketmakers etc. which we can link you up with to take your project to the next level.
-- A very unique feature of the Plasm / Shiden Network is dApps staking where developers can earn PLM / SDN tokens by developing and deploying applications. These tokens can act as supplementary income for your team. **The better the performance of your dapp (determined by how many tokens are nominated to you), the more tokens you will receive from each block.** Please take a look at this [forum post](https://forum.plasmnet.io/t/faq-what-is-dapps-staking/1247) for a more detailed explanation.
+- A very unique feature of the Astar / Shiden Network is dApps staking where developers can earn PLM / SDN tokens by developing and deploying applications. These tokens can act as supplementary income for your team. **The better the performance of your dapp (determined by how many tokens are nominated to you), the more tokens you will receive from each block.** Please take a look at this [forum post](https://forum.plasmnet.io/t/faq-what-is-dapps-staking/1247) for a more detailed explanation.
 
 ### Marketing support
 
@@ -51,7 +51,7 @@ We understand that any talented teams will have no problems applying to other pr
 
 - It's hard to get into our Builders Program, even harder to graduate from it so if you made it through the entire process, congratulations! As a final gift from us, if you ever need help for your future projects, feel free to reach out to us and we will try our best to help you.
 
-## Why build on Plasm Network & Shiden Network?
+## Why build on Astar Network & Shiden Network?
 
 Aside from the Builders Program, there are 4 more compelling reasons why you would build on us instead of other smart contract enabled parachains.
 
@@ -61,11 +61,11 @@ Aside from the Builders Program, there are 4 more compelling reasons why you wou
 
 2. Full Ethereum compatibility
 
-   We support all major Ethereum development tools like metamask, remix, truffle, hardhat etc. so deploying contracts on Plasm / Shiden is as simple as changing the RPC URL!
+   We support all major Ethereum development tools like metamask, remix, truffle, hardhat etc. so deploying contracts on Astar / Shiden is as simple as changing the RPC URL!
 
 3. Dapps staking
 
-   As mentioneded [previously](#network-and-fundraising-support), dapps staking is a unique feature of Plasm / Shiden Network. There are no other parachains that naively support dApp developers! 
+   As mentioneded [previously](#network-and-fundraising-support), dapps staking is a unique feature of Astar / Shiden Network. There are no other parachains that naively support dApp developers! 
    
 4. Scalable from the get-go
 
@@ -86,15 +86,15 @@ Learn more from [here](https://www.parity.io/substrate-builders-program-update-b
 
 ### When will the Builders Program commence and how long will it run for?
 
-The Builders Programs for both Plasm Network and Shiden Network will go live soon after winning their respective parachain auctions i.e. Polkadot for Plasm and Kusama for Shiden. We accept applications all year round.
+The Builders Programs for both Astar Network and Shiden Network will go live soon after winning their respective parachain auctions i.e. Polkadot for Astar and Kusama for Shiden. We accept applications all year round.
 
-### What is the difference between Plasm Network and Shiden Network?
+### What is the difference between Astar Network and Shiden Network?
 
-Shiden is to Plasm what Kusama is to Polkadot. Shiden is our canary network.
+Shiden is to Astar what Kusama is to Polkadot. Shiden is our canary network.
 
-### Is this Builders Program for Plasm Network or Shiden Network?
+### Is this Builders Program for Astar Network or Shiden Network?
 
-The Builders Program is for both networks. Once we win the Kusama parachain auction, we will go live with Builders Program for Shiden Network. Subsequently, when we have acquired a slot on the Polkadot parachain, we will accept applications for Plasm Network.
+The Builders Program is for both networks. Once we win the Kusama parachain auction, we will go live with Builders Program for Shiden Network. Subsequently, when we have acquired a slot on the Polkadot parachain, we will accept applications for Astar Network.
 
 ### Are there any application fees?
 
@@ -133,7 +133,7 @@ You should hear back from us within a few days of posting on the forum.
 
 ### Who is in the Builders Program Committee?
 
-The Builders Program currently consists of 8 members, 4 from the Plasm team and 4 ambassadors from our community. These 8 individuals will pull together their unique skillset and experiences to perform a comprehensive evaluation of your application. Note that if a consensus cannot be reached, the default behaviour is to reject the application.
+The Builders Program currently consists of 8 members, 4 from the Astar team and 4 ambassadors from our community. These 8 individuals will pull together their unique skillset and experiences to perform a comprehensive evaluation of your application. Note that if a consensus cannot be reached, the default behaviour is to reject the application.
 
 ### What makes a good application?
 
