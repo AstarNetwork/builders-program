@@ -10,6 +10,7 @@
 
 - [Introduction](#introduction)
 - [Who and what?](#who-and-what-are-we-looking-for)
+   - [Ecosystem Track](#ecosystem-track)
 
 ## Introduction
 
