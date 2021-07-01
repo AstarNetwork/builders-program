@@ -74,7 +74,7 @@ Aside from the Builders Program, there are 4 more compelling reasons why you wou
 ## How to apply?
 
 - On our [forum](https://forum.plasmnet.io/c/builders-program/14), create a thread titled "name of your team / company's application proposal"
-- We recommend taking reference to [W3F's general grant proposal template](https://github.com/w3f/General-Grants-Program/blob/master/grants/grant_application_template.md) when making your application post. If there are any privacy concerns, please reach out to us directly on [Telegram](https://t.me/PlasmOfficial) or [Discord](https://discord.gg/sTbJMSg) instead.
+- We recommend taking reference to [the application template](./template.md) when making your application post. If there are any privacy concerns, please reach out to us directly on [Telegram](https://t.me/PlasmOfficial) or [Discord](https://discord.gg/sTbJMSg) instead.
 
 ## FAQs
 
