@@ -10,7 +10,19 @@
 
 - [Introduction](#introduction)
 - [Who and what?](#who-and-what-are-we-looking-for)
-   - [Ecosystem Track](#ecosystem-track)
+   - [Ecosystem track](#ecosystem-track)
+   - [Innovation track](#innovation-track)
+- [Why would I apply?](#why-would-i-apply-for-your-builders-program)
+   - [Technical support](#technical-support)
+   - [Network and Fundraising support](#network-and-fundraising-support)
+   - [Marketing support](#marketing-support)
+   - [Post graduation support](#post-graduation-support)
+- [Why build on Astar Network & Shiden Network?](#why-build-on-aster-network-&-shiden-network)
+- [How to apply?](#how-to-apply)
+- [FAQs](#faqs)
+- [Credits](#credits)
+
+---
 
 ## Introduction
 
