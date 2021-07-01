@@ -4,6 +4,13 @@
   <img src="banner.jpeg" style="width:1000px";>
 </p>
 
+> **:loudspeaker:** This builders program is tracked **transparently** on GitHub. For private submissions, please read more in this README file.
+
+---
+
+- [Introduction](#introduction)
+  - [Who and what?](#who)
+
 ## Introduction
 
 The Astar / Shiden Network Builders Program was created to help further the development, growth and adoption of our ecosystem by supporting teams who are building on it. The program is operated by Stake Technologies with guidance from Parity Technologies under the [Builders for Builders initiative](https://www.parity.io/substrate-builders-program-update-builders-for-builders/).
