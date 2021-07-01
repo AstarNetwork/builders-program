@@ -106,19 +106,19 @@ Learn more from [here](https://www.parity.io/substrate-builders-program-update-b
 
 ### When will the Builders Program commence and how long will it run for?
 
-The Builders Programs for both Astar Network and Shiden Network will go live soon after winning their respective parachain auctions i.e. Polkadot for Astar and Kusama for Shiden. We accept applications all year round.
+> The Builders Programs for both Astar Network and Shiden Network will go live soon after winning their respective parachain auctions i.e. Polkadot for Astar and Kusama for Shiden. We accept applications all year round.
 
 ### What is the difference between Astar Network and Shiden Network?
 
-Shiden is to Astar what Kusama is to Polkadot. Shiden is our canary network.
+> Shiden is to Astar what Kusama is to Polkadot. Shiden is our canary network.
 
 ### Is this Builders Program for Astar Network or Shiden Network?
 
-The Builders Program is for both networks. Once we win the Kusama parachain auction, we will go live with Builders Program for Shiden Network. Subsequently, when we have acquired a slot on the Polkadot parachain, we will accept applications for Astar Network.
+> The Builders Program is for both networks. Once we win the Kusama parachain auction, we will go live with Builders Program for Shiden Network. Subsequently, when we have acquired a slot on the Polkadot parachain, we will accept applications for Astar Network.
 
 ### Are there any application fees?
 
-No.
+> No.
 
 ### What is the application process like?
 
