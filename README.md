@@ -124,11 +124,11 @@ Learn more from [here](https://www.parity.io/substrate-builders-program-update-b
 
 #### 1. Application
 
-[Apply here](#how-to-apply)
+    [Apply here](#how-to-apply)
 
 #### 2. Assessment
 
-An informal call will be scheduled between your team and the Builders Program committee. The purpose of this call is to get to know your team better, your motivations etc.
+    An informal call will be scheduled between your team and the Builders Program committee. The purpose of this call is to get to know your team better, your motivations etc.
 
 #### 3. Evaluation
 
