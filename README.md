@@ -176,3 +176,4 @@ Learn more from [here](https://www.parity.io/substrate-builders-program-update-b
 
 ## Credits
 - Banner - [LONG_DUONG](https://forum.plasmnet.io/t/vote-on-your-favourite-banner/1181/7)
+- Builders design - [Simon](https://github.com/STYJ)
