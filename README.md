@@ -9,7 +9,7 @@
 ---
 
 - [Introduction](#introduction)
-  - [Who and what?](#who)
+- [Who and what?](#who-and-what-are-we-looking-for)
 
 ## Introduction
 
