@@ -53,7 +53,6 @@ Please break your development roadmap into a number of milestones and include in
 For each milestone:
 
 * include a specification of your software. There must be enough details to verify that the software meets the specification.
-* include the amount of funding requested _per milestone_.
 * include documentation (tutorials, API specifications, architecture diagrams, whatever is appropriate) in each milestone. This ensures that the code can be widely used by the community.
 * provide a test suite, comprising unit and integration tests, along with a guide on how to set up and run them.
 * commit to providing Dockerfiles for the delivery of your project.
@@ -65,13 +64,11 @@ For each milestone:
 
 * **Total Estimated Duration:** Duration of the whole project (e.g. 2 months)
 * **Full-Time Equivalent (FTE):**  Average number of full-time employees working on the project throughout its duration (see [Wikipedia](https://en.wikipedia.org/wiki/Full-time_equivalent), e.g. 2 FTE)
-* **Total Costs:** Amount of payment in PLM / SDN tokens for the whole project.
 
 ### Milestone 1 Example — Implement Substrate Modules
 
 * **Estimated duration:** 1 month
 * **FTE:**  2
-* **Costs:** 20,000 SDN token
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
@@ -99,7 +96,7 @@ Please include the team's long-term plans and intentions.
 
 ## Additional Information
 
-**How did you hear about the Builders Program?** Plasm Network's Website / Medium / Twitter / Element / Announcement by another team / personal recommendation / etc.
+**How did you hear about the Builders Program?** Astar Network's Website / Medium / Twitter / Element / Announcement by another team / personal recommendation / etc.
 
 Here you can also add any additional information that you think is relevant to this application but isn't part of it already, such as:
 
