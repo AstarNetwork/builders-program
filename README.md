@@ -174,6 +174,12 @@ Learn more from [here](https://www.parity.io/substrate-builders-program-update-b
 
 > There is no hardcap per se so you can request for any amount you want but please be reasonable and don't expect us to agree to a 1m USD proposal for minimal changes.
 
+### Can I apply privately?
+
+> Yes. Please contact us on Telegram or Discord on how to proceed.
+> You can also send an email to maarten@stake.co.jp
+
+
 ## Credits
 - Banner - [LONG_DUONG](https://forum.plasmnet.io/t/vote-on-your-favourite-banner/1181/7)
 - Builders design - [Simon](https://github.com/STYJ)
