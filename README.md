@@ -1,7 +1,7 @@
 # Builders Program for Astar (formerly Plasm) and Shiden Network
 
 <p align="center">
-  <img src="banner.jpeg" style="width:1000px";>
+  <img src="astar.png" style="width:1000px";>
 </p>
 
 > **:loudspeaker:** This builders program is tracked **transparently** on GitHub. For private submissions, please read more in this README file.
