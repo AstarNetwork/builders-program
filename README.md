@@ -59,7 +59,7 @@ We understand that any talented teams will have no problems applying to other pr
 ### Network and Fundraising support
 
 - We have access to a huge network of traditional / crypto investors, industry experts, blockchain mentors, exchanges, marketmakers etc. which we can link you up with to take your project to the next level.
-- A very unique feature of the Astar / Shiden Network is dApps staking where developers can earn PLM / SDN tokens by developing and deploying applications. These tokens can act as supplementary income for your team. **The better the performance of your dapp (determined by how many tokens are nominated to you), the more tokens you will receive from each block.** Please take a look at this [forum post](https://forum.plasmnet.io/t/faq-what-is-dapps-staking/1247) for a more detailed explanation.
+- A very unique feature of the Astar / Shiden Network is dApps staking where developers can earn PLM / SDN tokens by developing and deploying applications. These tokens can act as supplementary income for your team. **The better the performance of your dapp (determined by how many tokens are nominated to you), the more tokens you will receive from each block.** Please take a look at this [forum post](https://forum.astar.network/t/faq-what-is-dapps-staking/1247) for a more detailed explanation.
 
 ### Marketing support
 
@@ -93,7 +93,7 @@ Aside from the Builders Program, there are 4 more compelling reasons why you wou
 
 ## How to apply?
 
-- On our [forum](https://forum.plasmnet.io/c/builders-program/14), create a thread titled "name of your team / company's application proposal"
+- On our [forum](https://forum.astar.network/), create a thread titled "name of your team / company's application proposal"
 - We recommend taking reference to [the application template](./template.md) when making your application post. If there are any privacy concerns, please reach out to us directly on [Telegram](https://t.me/PlasmOfficial) or [Discord](https://discord.gg/sTbJMSg) instead.
 
 ## FAQs
@@ -181,5 +181,5 @@ Learn more from [here](https://www.parity.io/substrate-builders-program-update-b
 
 
 ## Credits
-- Banner - [LONG_DUONG](https://forum.plasmnet.io/t/vote-on-your-favourite-banner/1181/7)
+- Banner - [LONG_DUONG](https://forum.astar.network/)
 - Builders design - [Simon](https://github.com/STYJ)
