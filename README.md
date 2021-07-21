@@ -20,6 +20,7 @@
 - [Why build in Astar ecosystem?](#why-build-in-astar-ecosystem)
 - [How to apply?](#how-to-apply)
 - [FAQs](#faqs)
+- [Approved applications](#approved-applications)
 - [Credits](#credits)
 
 ---
@@ -179,6 +180,9 @@ Learn more from [here](https://www.parity.io/substrate-builders-program-update-b
 > Yes. Please contact us on Telegram or Discord on how to proceed.
 > You can also send an email to maarten@stake.co.jp
 
+
+## Approved applications
+- [Subscan](https://www.subscan.io): Subscan plans to provide basic explorer customization services for Shiden Network, Dusty Network, and Astar (prev-Plasm) Network. [More information](https://forum.astar.network/t/subscan-explorer-application-proposal/1281)
 
 ## Credits
 - Banner - [LONG_DUONG](https://forum.astar.network/)
