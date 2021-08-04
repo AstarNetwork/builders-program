@@ -10,8 +10,8 @@
 
 - [Introduction](#introduction)
 - [Who and what?](#who-and-what-are-we-looking-for)
-   - [Ecosystem track](#ecosystem-track)
-   - [Innovation track](#innovation-track)
+   - [Infrastructure track](#infrastructure-track)
+   - [Application track](#application-track)
 - [Why would I apply?](#why-would-i-apply-for-your-builders-program)
    - [Technical support](#technical-support)
    - [Network and Fundraising support](#network-and-fundraising-support)
@@ -49,7 +49,7 @@ The application track is geared primarily towards building dApps in the Astar ec
 ## Workflow
 
 <p align="center">
-  <img src="workflow.png" style="width:1000px";>
+  <img src="flow.png" style="width:1000px";>
 </p>
 
 ## Why should I apply for your Builders Program?
