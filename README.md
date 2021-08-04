@@ -31,20 +31,26 @@ The Astar / Shiden Network Builders Program was created to help further the deve
 
 ## Who and what are we looking for?
 
-We are always focused on the community and on product development so we have designed the program in a similar fashion - we are interested in **high quality teams** that are building **applications that the community wants**. This can be broadly split into 2 different tracks, the ecosystem track and the innovation track.
+We are always focused on the community and on product development so we have designed the program in a similar fashion - we are interested in **high quality teams** that are building **infrastructure/integrations to help our developers** and **applications that the community wants**. This can be broadly split into 2 different tracks, the infrastructure track and the application track.
 
-### Ecosystem Track
+### Infrastructure Track
 
-As the name suggests, the ecosystem track is an umbrella term to categorise any applications or services that can help improve the adoption of the ecosystem. Some common examples include:
+As the name suggests, the infrastructure track is an umbrella term to categorise all integrations or services that can help improve the adoption of the ecosystem. Some common examples include:
 
-- dApps (dexes, lending platforms, mixers, insurance)
-- developer tools (libraries, pallets, debugging tools)
-- infrastructure (custodians, bridges, oracles, analytics)
-- integration grants (port over and maintain dapps from other blockchains)
+- developer tools (libraries, pallets, debugging tools, ...)
+- infrastructure (custodians, bridges, explorer, ...)
+- integration tools (oracles, indexer, ...)
 
-### Innovation Track
 
-The innovation track is geared primarily towards research and experimentation. Some examples of what falls under the innovation track could be code obfuscation, cryptography, reputation systems or even unique dapp ideas.
+### Application Track
+
+The application track is geared primarily towards building dApps in the Astar ecosystem.
+
+## Workflow
+
+<p align="center">
+  <img src="workflow.png" style="width:1000px";>
+</p>
 
 ## Why should I apply for your Builders Program?
 
