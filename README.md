@@ -82,6 +82,8 @@ We understand that any talented teams will have no problems applying to other pr
 
 - It's hard to get into our Builders Program, even harder to graduate from it so if you made it through the entire process, congratulations! As a final gift from us, if you ever need help for your future projects, feel free to reach out to us and we will try our best to help you.
 
+---
+
 ## Why build in Astar ecosystem?
 
 Aside from the Builders Program, there are 4 more compelling reasons why you would build on us instead of other smart contract enabled parachains.
@@ -94,7 +96,7 @@ Aside from the Builders Program, there are 4 more compelling reasons why you wou
 
    We support all major Ethereum development tools like metamask, remix, truffle, hardhat etc. so deploying contracts on Astar / Shiden is as simple as changing the RPC URL!
 
-3. Dapps staking
+3. dApp staking
 
    As mentioneded [previously](#network-and-fundraising-support), dapps staking is a unique feature of Astar / Shiden Network. There are no other parachains that naively support dApp developers! 
    
@@ -102,10 +104,15 @@ Aside from the Builders Program, there are 4 more compelling reasons why you wou
 
    If your application requires a much higher throughput, you can easily take advantage of one of the layer 2 modules e.g. Plasma, OVM or ZK rollups that we offer!
 
+---
+
 ## How to apply?
 
-- On our [forum](https://forum.astar.network/), create a thread titled "name of your team / company's application proposal"
-- We recommend taking reference to [the application template](./template.md) when making your application post. If there are any privacy concerns, please reach out to us directly on [Telegram](https://t.me/PlasmOfficial) or [Discord](https://discord.gg/sTbJMSg) instead.
+- Fill in our application [form](https://forms.gle/BuAutDw7dwaJ9aWw6)
+- You will receive an email for an introduction meeting. The meeting is to introduce ourselves and explain more about the program.
+- After your application is approved you will be informed with the next steps.
+
+---
 
 ## FAQs
 
@@ -185,14 +192,11 @@ Learn more from [here](https://www.parity.io/substrate-builders-program-update-b
 
 > There is no hardcap per se so you can request for any amount you want but please be reasonable and don't expect us to agree to a 1m USD proposal for minimal changes.
 
-### Can I apply privately?
-
-> Yes. Please contact us on Telegram or Discord on how to proceed.
-> You can also send an email to maarten@stake.co.jp
-
+---
 
 ## Approved applications
 - [Subscan](https://www.subscan.io): Subscan plans to provide basic explorer customization services for Shiden Network, Dusty Network, and Astar (prev-Plasm) Network. [More information](https://forum.astar.network/t/subscan-explorer-application-proposal/1281)
+- [OnFinality](https://onfinality.io/): OnFinality is proposing to run geographically distributed public Shiden RPC API Service on our platform, allowing free community access. [More information](https://forum.astar.network/t/onfinality-builders-program-application-robust-reliable-public-infrastructure-for-the-shiden-network/1293)
 
 ## Credits
 - Banner - [LONG_DUONG](https://forum.astar.network/)
