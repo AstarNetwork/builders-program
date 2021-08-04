@@ -46,11 +46,15 @@ As the name suggests, the infrastructure track is an umbrella term to categorise
 
 The application track is geared primarily towards building dApps in the Astar ecosystem.
 
+---
+
 ## Workflow
 
 <p align="center">
   <img src="flow.png" style="width:1000px";>
 </p>
+
+---
 
 ## Why should I apply for your Builders Program?
 
