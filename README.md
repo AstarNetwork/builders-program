@@ -51,7 +51,7 @@ The application track is geared primarily towards building dApps in the Astar ec
 ## Workflow
 
 <p align="center">
-  <img src="flow.png" style="width:1000px";>
+  <img src="buildersflow.png" style="width:1000px";>
 </p>
 
 ---
