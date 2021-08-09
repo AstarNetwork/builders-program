@@ -201,5 +201,4 @@ Learn more from [here](https://www.parity.io/substrate-builders-program-update-b
 - [OnFinality](https://onfinality.io/): OnFinality is proposing to run geographically distributed public Shiden RPC API Service on our platform, allowing free community access. [More information](https://forum.astar.network/t/onfinality-builders-program-application-robust-reliable-public-infrastructure-for-the-shiden-network/1293)
 
 ## Credits
-- Banner - [LONG_DUONG](https://forum.astar.network/)
 - Builders design - [Simon](https://github.com/STYJ)
